@@ -17,3 +17,7 @@ Currently building an EC backend API using:
 - Fastify
 - PostgreSQL
 - Docker
+
+### Current Project
+- EC Backend API (Fastify + Stripe + PostgreSQL)
+  - https://github.com/yourname/fastify-ec-api
